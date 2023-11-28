@@ -1,0 +1,1 @@
+Build an opencv project that recognizes text, determines language and translates it to desired language in realtime
